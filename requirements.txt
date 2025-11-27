@@ -3,3 +3,5 @@ graphene
 graphene-django
 djangorestframework
 psycopg2-binary
+gunicorn
+
