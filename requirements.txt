@@ -1,0 +1,5 @@
+Django
+graphene
+graphene-django
+djangorestframework
+psycopg2-binary
